@@ -15,7 +15,7 @@ Sales Pulse is a dynamic business intelligence project built with Power BI that 
 ✔️ Perform comprehensive sales and profit analysis over time
 ✔️ Use time series forecasting to predict future sales trends
 ✔️ Build interactive dashboards for stakeholder decision-making
-✔️ Visualize category and payment method trends
+✔️ Visualize categories and payment method trends
 ✔️ Highlight key performance indicators (KPIs)
 
 🧠 Analytical Techniques Used
