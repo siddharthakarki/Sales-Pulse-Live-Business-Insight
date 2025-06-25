@@ -2,7 +2,7 @@
 🔍 Power BI Dashboard | Sales Forecasting | Time Series Analysis
 
 📌 Project Overview
-Sales Pulse is a dynamic business intelligence project built with Power BI that delivers real-time insights into historical sales and future trends. By leveraging data analysis techniques and time series forecasting, this project transforms raw sales data from 2019–2020 into actionable insights, enabling smarter business decisions.
+Sales Pulse is a dynamic business intelligence project built with Power BI that delivers real-time insights into historical sales and future trends. By leveraging data analysis techniques & time series forecasting, this project transforms raw sales data from 2019–2020 into actionable insights, enabling smarter business decisions.
 
 📁 Dataset Information
 📅 Time Period: 2019–2020
